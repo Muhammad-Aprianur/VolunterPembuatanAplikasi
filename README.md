@@ -8,3 +8,4 @@ Repositori ini digunakan sebagai sayembara pencarian volunter untuk pembuatan Ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Muhammad Aprianur, [GitHub](https://github.com/MUHAMMADAPRIANUR).
